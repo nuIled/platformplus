@@ -1,5 +1,3 @@
-![Platform menu](preview.png)
-
 custom plugin i made to enable extra browser, mobile, console, and VR sessions next to your existing desktop icon. each one can have its own status like idle / dnd / online.
 
 i was not successful replacing the existing desktop session, this plugin only adds extra visible sessions on top of your existing session.
@@ -32,3 +30,6 @@ this updates the Vencord you already have, it doesnt interfere with your existin
 my plugin loads under your account popout whatever
 
 if you want to use this or modify this for yourself, credit me, thanku c:
+
+<img src="preview.png" width="320">
+<img src="preview2.png" width="320">
