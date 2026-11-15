@@ -29,6 +29,8 @@ this updates the Vencord you already have, it doesnt interfere with your existin
 
 my plugin loads under your account popout whatever
 
+i wont keep it updated if it breaks. though - if there is an issue you encounter, open an issue request and ill fix :D
+
 if you want to use this or modify this for yourself, credit me, thanku c:
 
 <img src="preview.png" width="320">
