@@ -8,6 +8,10 @@ obviously, this is only visible to people using platform indicators plugin, whic
 
 ## how do i install this??
 
+first, install:
+https://nodejs.org/
+https://git-scm.com/download/win
+
 your vencord already inside discord cannot load this file on its own, it has to be injected!
 
 1. download vencord source: https://github.com/Vendicated/Vencord
