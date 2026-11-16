@@ -9,6 +9,7 @@ obviously, this is only visible to people using platform indicators plugin, whic
 ## how do i install this??
 
 first, install:
+
 https://nodejs.org/
 
 https://git-scm.com/download/win
