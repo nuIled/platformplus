@@ -10,6 +10,7 @@ obviously, this is only visible to people using platform indicators plugin, whic
 
 first, install:
 https://nodejs.org/
+
 https://git-scm.com/download/win
 
 your vencord already inside discord cannot load this file on its own, it has to be injected!
